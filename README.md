@@ -1,5 +1,4 @@
 # Huffman-Coding-Overview
-## Description
 This Java project implements the Huffman coding algorithm. The algorithm efficiently encodes and decodes data by assigning variable-length codes to different characters based on their frequency of occurrence.
 
 ## Features
